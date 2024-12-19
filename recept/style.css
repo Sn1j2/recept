@@ -1,0 +1,41 @@
+body {
+    background-color: coral;
+    }
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    }
+
+
+.tiramisuafbeelding {
+    display: block ;
+    margin: auto;
+    padding: 30px;
+}
+
+h3 {
+    font-size: 22px;
+    text-align: left;
+}
+
+h4 {
+    text-align: center;
+    font-size: 50px;
+}
+
+a {
+    margin: ;argin: 850px;
+    text-align: center;
+    font-size: 25px;
+    }
+
+.ingredienten {
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+}
+    
